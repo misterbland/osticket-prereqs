@@ -11,43 +11,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Internet Information Services (IIS) and Initial Setup
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Prerequisites and Steps</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Installation Steps, Disk Sanitization Steps, etc..
+- Help Tickets (Creation & Adjustments)
+
 
 <h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/Gkh6SRp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/DViAVJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/lSrwFEs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  <img src="https://i.imgur.com/OHLV0iC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/lSrwFEs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/CYsvuRY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/QfLBfQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/udu1oeX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/UXDJwgd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
